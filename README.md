@@ -1,4 +1,4 @@
-# Sistema-de-Gesti-n-de-Inventario
+ 
 # Sistema de Gestión de Inventario SQL
 
 ## Descripción
