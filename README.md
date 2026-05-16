@@ -29,4 +29,4 @@ inventario-sql/
 - WHERE
 
 ## Autor
-Tu Nombre
+Elizabeth Herrera
