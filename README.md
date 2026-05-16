@@ -5,7 +5,7 @@
 Proyecto básico de base de datos desarrollado en SQL para la gestión de inventario, productos y compras.
 
 ## Tecnologías utilizadas
-- MySQL
+
 - SQL
 
 ## Funcionalidades
